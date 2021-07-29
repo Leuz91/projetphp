@@ -1,0 +1,21 @@
+#body{
+    background-color: rgb(196, 214, 247);
+}
+#img1{
+    width: 15%;
+    height: 15%;
+    
+}
+#img2{
+    border-radius: 1000px;
+    width: 80%;
+    height: 80%;
+    
+}
+#menu{
+    background-color: rgba(193, 250, 193, 0.692);
+    border: solid 3px rgb(22, 231, 22);
+    border-radius: 50px;
+    width: 90%;
+    
+}
